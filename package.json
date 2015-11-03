@@ -1,0 +1,27 @@
+{
+  "name": "react-tutorial-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-replace": "^1.5.4",
+    "gulp-react": "^3.1.0",
+    "gulp-uglify": "^1.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BPeppard/react-tutorial-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BPeppard/react-tutorial-2/issues"
+  },
+  "homepage": "https://github.com/BPeppard/react-tutorial-2#readme"
+}
